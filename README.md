@@ -8,7 +8,8 @@
 
 ## 🔗 Resources
 
-- 📑 [Session Slides](./Cloud101_Session_Slides.pdf)
+- [Indranil's Slides](./Cloud101_Indranil.pdf)
+- [Sujit's Slides](./Cloud101_Sujit.pdf)
 - 📺 [YouTube Recording](https://www.youtube.com/watch?v=4lCMV4Tkpgw)
 
 ---
