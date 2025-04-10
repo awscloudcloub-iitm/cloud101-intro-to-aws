@@ -9,7 +9,7 @@
 ## 🔗 Resources
 
 - 📑 [Session Slides](./Cloud101_Session_Slides.pdf)
-- 📺 [YouTube Recording]([https://youtu.be/9G53VZH2Ozw](https://www.youtube.com/watch?v=4lCMV4Tkpgw))
+- 📺 [YouTube Recording](https://www.youtube.com/watch?v=4lCMV4Tkpgw)
 
 ---
 
